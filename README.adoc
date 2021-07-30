@@ -1,0 +1,13 @@
+= spelling-systems-data
+
+image:https://github.com/interscript/spelling-systems-data/workflows/test/badge.svg["Build status", link="https://github.com/interscript/spelling-systems-data/actions?workflow=test"]
+
+== Introduction
+
+This repository contains a registry for spelling systems as used in
+https://github.com/interscript/interscript[Interscript^].
+
+
+== Copyright and license
+
+This is a Ribose project. Copyright Ribose.
